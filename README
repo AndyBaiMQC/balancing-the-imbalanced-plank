@@ -1,0 +1,19 @@
+Please find the following:
+	
+	Source code - /src
+	Report - report.pdf
+	Model - trained_network.pth
+	ONNX model - fcn.onnx
+
+To rerun the experiments, navigate to /src and type:
+
+	bash run.sh
+
+If you have most dependencies installed, simply:
+
+	python3 run.py
+
+To launch from the root directory:
+
+	cd src
+	bash run.sh #python3 run.py
